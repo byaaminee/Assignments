@@ -1,4 +1,4 @@
-package Assignment2_Yaaminee;
+package assignment2_Yaaminee;
 
 public class Asgnmnt2_7_ReverseString {
 
