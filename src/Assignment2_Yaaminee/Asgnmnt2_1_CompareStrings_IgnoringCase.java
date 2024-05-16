@@ -1,4 +1,4 @@
-package Assignment2_Yaaminee;
+package assignment2_Yaaminee;
 
 public class Asgnmnt2_1_CompareStrings_IgnoringCase {
 
