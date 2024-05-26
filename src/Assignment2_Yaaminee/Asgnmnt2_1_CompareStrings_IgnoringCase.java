@@ -14,7 +14,7 @@ public class Asgnmnt2_1_CompareStrings_IgnoringCase {
 		System.out.println(str1 + "\n" + str2 + "\n");
 		
 		
-		Boolean comparisonStatus1 = str1.equalsIgnoreCase(str2);
+		boolean comparisonStatus1 = str1.equalsIgnoreCase(str2);
 		System.out.println("Do the compared Strings are same by ignoring case? " + comparisonStatus1 + "\n");
 
 			
@@ -23,7 +23,7 @@ public class Asgnmnt2_1_CompareStrings_IgnoringCase {
 		System.out.println(str1 + "\n" + str3 + "\n");
 		
 		
-		Boolean comparisonStatus2 = str1.equalsIgnoreCase(str3);
+		boolean comparisonStatus2 = str1.equalsIgnoreCase(str3);
 		System.out.println("Do the compared Strings are same by ignoring case? " + comparisonStatus2);
 		
 	}
