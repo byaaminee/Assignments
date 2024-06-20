@@ -6,9 +6,9 @@ public class Asgmt2_Array_duplicates {
 		
 		//Question: Write a program to find duplicate elements in an array.​
 		
-		//int [] array = {1,1,2,2,3,4,8,9,14};
+		int [] array = {1,1,2,2,4,8,9,14};
 		
-		int []array = {1,2,3,4,8,9,14};
+		//int []array = {1,2,3,4,8,9,14};
 		
 		int size = array.length;
 		
